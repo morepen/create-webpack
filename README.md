@@ -1,7 +1,5 @@
 webpack 笔记
 
-webpack原理
-
 webpack是文件打包工具
 
 webpack代表文件的合成
